@@ -20,3 +20,13 @@ Whether users are seeking quick answers on-the-go or engaging in in-depth discus
 * React
 * Css
 * Gemini Ai api
+
+## Front End Snaps -
+
+## Mobile view:
+![Screenshot (609)](https://github.com/prajwaln07/Gyani-AI-react/assets/142973627/6902565a-58d8-4a63-a820-be5f4236f438)
+## Laptop view:
+![Screenshot (608)](https://github.com/prajwaln07/Gyani-AI-react/assets/142973627/9bb1a6f0-7f44-4cfb-a2c1-edb22b8bfb29)
+## Video:
+https://github.com/prajwaln07/Gyani-AI-react/assets/142973627/db0fd7d2-ddae-46a4-88c2-8bbd167f9f72
+
