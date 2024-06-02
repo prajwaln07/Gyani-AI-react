@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gyani-AI-react/static/css/main.09ce100b.css",
+    "main.js": "/Gyani-AI-react/static/js/main.63864320.js",
+    "static/js/453.ed3810f9.chunk.js": "/Gyani-AI-react/static/js/453.ed3810f9.chunk.js",
+    "static/media/user.jpg": "/Gyani-AI-react/static/media/user.a531a31d28f1cc6a3501.jpg",
+    "static/media/gyani.avif": "/Gyani-AI-react/static/media/gyani.cfe852fc338fa213a5c0.avif",
+    "static/media/gallery_icon.png": "/Gyani-AI-react/static/media/gallery_icon.1da1416be560b7741007.png",
+    "static/media/logo.svg": "/Gyani-AI-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gyani-AI-react/index.html",
+    "main.09ce100b.css.map": "/Gyani-AI-react/static/css/main.09ce100b.css.map",
+    "main.63864320.js.map": "/Gyani-AI-react/static/js/main.63864320.js.map",
+    "453.ed3810f9.chunk.js.map": "/Gyani-AI-react/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ce100b.css",
+    "static/js/main.63864320.js"
+  ]
+}
